@@ -64,7 +64,7 @@
     },
     "buildpacks": [
         {
-        "url": "heroku/python"
+        "url": "heroku/python-3.11.0"
         }
     ],
     "formation": {
